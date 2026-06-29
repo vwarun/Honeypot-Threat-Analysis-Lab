@@ -85,7 +85,7 @@ The lab is built around two isolated virtual machines on an **internal-only netw
 
 ## 🛠️ Setup & Installation
 
-> 📄 Full walkthrough: [`reports/setup_installation_configuration.md`](reports/setup_installation_configuration.md)
+> 📄 Full walkthrough: [`Setup Installation Configuration`](reports/Setup_Installation_Configuration.pdf)
 
 ### System Requirements
 
@@ -94,7 +94,7 @@ The lab is built around two isolated virtual machines on an **internal-only netw
 | RAM | 8 GB | 16 GB |
 | Storage | 128 GB | 256 GB SSD |
 | CPU | 4 cores | 8 cores |
-| OS | Ubuntu 20.04+ | Ubuntu 22.04 LTS |
+| OS | Ubuntu 20.04+ | Ubuntu 24.04 LTS |
 | Network | 1 NIC | 2 NICs (isolated segment) |
 
 ### Phase 1 — Host Preparation
@@ -166,7 +166,7 @@ You should see the T-Pot landing page with links to:
 
 ## ⚔️ Attack Simulation & Threat Analysis
 
-> 📄 Full walkthrough: [`reports/attack_simulation_and_threat_analysis.md`](reports/attack_simulation_and_threat_analysis.md)
+> 📄 Full walkthrough: [`Attack Simulation and Threat Analysis`](reports/Attack_Simulation_and_Threat_Analysis.pdf)
 
 Attacks were launched from the **Kali attacker VM** against the honeypot's IP. Each attack type was designed to trigger a specific honeypot sensor.
 
