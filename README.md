@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/assets/logo.png" alt="Logo" width="120"/>
+<img src="images/assets/logoo.png" alt="Logo" width="120"/>
 
 <img src="images/assets/project-banner.png" alt="Honeypot Threat Analysis Lab Banner" width="100%"/>
 
