@@ -375,5 +375,6 @@ Cybersecurity Enthusiast | Blue Team | Threat Intelligence
 *Built with 🍯 and a lot of threat data.*
 
 ⭐ If this lab helped you, consider giving it a star!
-                                              @wakaa
+                                             
 </div>
+                                              @wakaa
