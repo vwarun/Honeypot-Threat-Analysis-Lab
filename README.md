@@ -50,7 +50,7 @@ The project covers three pillars:
 ## 🏗️ Architecture
 
 <div align="center">
-  <img src="images/architecture.png" alt="Lab Architecture Diagram" width="90%"/>
+  <img src="images/architecture/architecture-diagram.png" alt="Lab Architecture Diagram" width="90%"/>
 </div>
 
 <br/>
