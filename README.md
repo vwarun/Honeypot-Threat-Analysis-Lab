@@ -239,24 +239,6 @@ run
 
 ---
 
-### 📡 Phase 5 — Credential Harvesting (Heralding)
-
-Heralding emulates FTP, SMTP, POP3, IMAP, HTTP, and Telnet to harvest credentials across multiple protocols:
-
-```bash
-# Attempt FTP login
-ftp <HONEYPOT_IP>
-
-# Test HTTP Basic Auth
-curl -u admin:password http://<HONEYPOT_IP>:80
-
-# Telnet probe
-telnet <HONEYPOT_IP> 23
-```
-
-**What was captured:** All credential attempts across every protocol, stored with timestamps and attacker IP.
-
----
 
 ## 📊 Key Findings
 
@@ -330,7 +312,7 @@ telnet <HONEYPOT_IP> 23
 | **Nmap** | Port scanning and service enumeration |
 | **Hydra** | SSH/FTP brute-force |
 | **Metasploit** | Exploitation framework |
-| **Netcat** | Manual TCP/UDP probe |
+| **Nikto** | probe web servers for security flaws, dangerous files, outdated software, and misconfigurations |
 | **curl** | HTTP interaction |
 
 ---
